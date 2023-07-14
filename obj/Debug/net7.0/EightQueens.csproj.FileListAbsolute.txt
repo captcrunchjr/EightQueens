@@ -1,0 +1,15 @@
+E:\Development\EightQueens\bin\Debug\net7.0\EightQueens.exe
+E:\Development\EightQueens\bin\Debug\net7.0\EightQueens.deps.json
+E:\Development\EightQueens\bin\Debug\net7.0\EightQueens.runtimeconfig.json
+E:\Development\EightQueens\bin\Debug\net7.0\EightQueens.dll
+E:\Development\EightQueens\bin\Debug\net7.0\EightQueens.pdb
+E:\Development\EightQueens\obj\Debug\net7.0\EightQueens.csproj.AssemblyReference.cache
+E:\Development\EightQueens\obj\Debug\net7.0\EightQueens.GeneratedMSBuildEditorConfig.editorconfig
+E:\Development\EightQueens\obj\Debug\net7.0\EightQueens.AssemblyInfoInputs.cache
+E:\Development\EightQueens\obj\Debug\net7.0\EightQueens.AssemblyInfo.cs
+E:\Development\EightQueens\obj\Debug\net7.0\EightQueens.csproj.CoreCompileInputs.cache
+E:\Development\EightQueens\obj\Debug\net7.0\EightQueens.dll
+E:\Development\EightQueens\obj\Debug\net7.0\refint\EightQueens.dll
+E:\Development\EightQueens\obj\Debug\net7.0\EightQueens.pdb
+E:\Development\EightQueens\obj\Debug\net7.0\EightQueens.genruntimeconfig.cache
+E:\Development\EightQueens\obj\Debug\net7.0\ref\EightQueens.dll

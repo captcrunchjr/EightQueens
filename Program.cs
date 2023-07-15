@@ -66,6 +66,7 @@ namespace EightQueens
                                 ts.Hours, ts.Minutes, ts.Seconds,
                                 ts.Milliseconds / 10);
                         Console.WriteLine("Winner!");
+                        Console.WriteLine("Size: " + dimension + "x" + dimension);
                         Console.WriteLine("State Changes: " + totalStateChanges);
                         Console.WriteLine("Restarts: " + totalRestarts);
                         Console.WriteLine("Time: " + elapsedTime);
@@ -103,6 +104,7 @@ namespace EightQueens
                 else{
                     Console.WriteLine("Invalid Input. Closing.");
                     repeat = false;
+                    Console.ReadLine();
                 }
 
             }while(repeat);

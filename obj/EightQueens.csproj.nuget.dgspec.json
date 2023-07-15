@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Development\\EightQueens\\EightQueens.csproj": {}
+    "e:\\Development\\EightQueens\\EightQueens.csproj": {}
   },
   "projects": {
-    "E:\\Development\\EightQueens\\EightQueens.csproj": {
+    "e:\\Development\\EightQueens\\EightQueens.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Development\\EightQueens\\EightQueens.csproj",
+        "projectUniqueName": "e:\\Development\\EightQueens\\EightQueens.csproj",
         "projectName": "EightQueens",
-        "projectPath": "E:\\Development\\EightQueens\\EightQueens.csproj",
+        "projectPath": "e:\\Development\\EightQueens\\EightQueens.csproj",
         "packagesPath": "C:\\Users\\captc\\.nuget\\packages\\",
-        "outputPath": "E:\\Development\\EightQueens\\obj\\",
+        "outputPath": "e:\\Development\\EightQueens\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\captc\\AppData\\Roaming\\NuGet\\NuGet.Config"

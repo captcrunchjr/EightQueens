@@ -15,14 +15,17 @@ namespace EightQueens
 
         }
         public int CheckConflicts(Board board, Queen[] queens){
-            //int conflicts;
-            List<Task<int>> tasks = new List<Task<int>>();
+            int conflicts = 0;
+            conflicts += CheckRowConflicts(queens);
+            conflicts += CheckDiagonalConflicts(queens);
+            return conflicts;
+            /*List<Task<int>> tasks = new List<Task<int>>();
             var t1 = Task<int>.Run(() => { return CheckRowConflicts(queens);});
             var t2 = Task<int>.Run(()=> { return CheckDiagonalConflicts(queens);});
             tasks.Add(t1);
             tasks.Add(t2);
             Task.WaitAll(tasks.ToArray());
-            return tasks.Sum((t) => t.Result);
+            return tasks.Sum((t) => t.Result);*/
         }
 
         public int CheckRowConflicts(Queen[] queens){

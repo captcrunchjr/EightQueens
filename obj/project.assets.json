@@ -8,24 +8,31 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\captc\\.nuget\\packages\\": {}
+    "C:\\Users\\captc\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Development\\EightQueens\\EightQueens.csproj",
+      "projectUniqueName": "e:\\Development\\EightQueens\\EightQueens.csproj",
       "projectName": "EightQueens",
-      "projectPath": "E:\\Development\\EightQueens\\EightQueens.csproj",
+      "projectPath": "e:\\Development\\EightQueens\\EightQueens.csproj",
       "packagesPath": "C:\\Users\\captc\\.nuget\\packages\\",
-      "outputPath": "E:\\Development\\EightQueens\\obj\\",
+      "outputPath": "e:\\Development\\EightQueens\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\captc\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\captc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
